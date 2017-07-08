@@ -6,4 +6,4 @@ More information about restriction maps can be found here: [Restriction Map](htt
 
 This repo contains the following algorithms:  
 
-* Double Digest
+* Double Digest: [Jupyter Notebook](https://nbviewer.jupyter.org/github/dominikgrimm/digest/blob/master/Double%20Digest.ipynb)
